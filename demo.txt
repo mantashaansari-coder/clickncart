@@ -1,0 +1,5 @@
+PS C:\Users\HP\Desktop\git-demo> git add 
+fatal: not a git repository (or any of the parent directories): .git
+PS C:\Users\HP\Desktop\git-demo> git init 
+Initialized empty Git repository in C:/Users/HP/Desktop/git-demo/.git/
+PS C:\Users\HP\Desktop\git-demo> 
