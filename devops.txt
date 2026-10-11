@@ -1,0 +1,24 @@
+add . commit , status , log , push init 
+clone >> remote to local 
+pull >> get the changes from the repo 
+fork >> copy anyone repo on your github 
+fetch >> fetch the changes 
+press q 
+
+git diff >> to check the diff between the commits and files 
+logs in one line
+git show >> show the commit information 
+ 
+git branch prod dev UAT test 
+git checkout 
+git switch 
+
+practice for the add commit and push 
+create tocken 
+and push it via tocken 
+
+branching strategy 
+git ignore 
+readme.md file 
+
+
