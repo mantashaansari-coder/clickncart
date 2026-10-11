@@ -1,0 +1,32 @@
+Id CommandLine                                                                                           
+  -- -----------                                                                                           
+   1 try { . "c:\Users\HP\AppData\Local\Programs\Microsoft VS Code\07f806f999\resources\app\out\vs\workb...
+   2 git remote -v                                                                                         
+   3 cd ..                                                                                                 
+   4 cd .\cartforge\                                                                                       
+   5 ls                                                                                                    
+   6 cd ..                                                                                                 
+   7 cd .\git-demo\                                                                                        
+   8 ls                                                                                                    
+   9 git fetch                                                                                             
+  10 git pull                                                                                              
+  11 git pull origin main                                                                                  
+  12 history                                                                                               
+  13 git diff                                                                                              
+  14 git diff                                                                                              
+  15 git diff                                                                                              
+  16 git add .                                                                                             
+  17 git commit -m "learn diff "                                                                           
+  18 git log                                                                                               
+  19 git log --oneline                                                                                     
+  20 history                                                                                               
+  21 git log --oneline                                                                                     
+  22 git show 834c                                                                                         
+  23 history                                                                                               
+  24 git branch                                                                                            
+  25 git branch git                                                                                        
+  26 git branch devops                                                                                     
+  27 git branch prod                                                                                       
+  28 git branch                                                                                            
+  29 git checkout git                                                                                      
+
